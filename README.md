@@ -17,7 +17,8 @@ As a software engineer, I love challenges and learning new technologies, but abo
 
 🌱 I’m currently learning ...
 
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 <!--
 **ceccuentos/ceccuentos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
