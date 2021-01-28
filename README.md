@@ -18,6 +18,9 @@ As a software engineer, I love challenges and learning new technologies, but abo
 🌱 I’m currently learning ...
 
 <!--START_SECTION:waka-->
+```text
+No Activity tracked this Week
+```
 <!--END_SECTION:waka-->
 
 <!--
